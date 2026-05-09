@@ -39,8 +39,9 @@ A high-performance, real-time chat application built from scratch with a focus o
 * **Media:** Integrated WebRTC for P2P high-quality video and audio calls.
 * **Frontend:** Modular React architecture using custom hooks for separation of concerns.
 
-👉 [GitHub Repository](https://github.com/MariusUsv/linko) *(înlocuiește cu link-ul tău real)*
-
+👉 [GitHub Repository] 
+Frontend https://github.com/MariusUsv/WebRTC-Frontend.git
+Backend https://github.com/MariusUsv/WebRTC-Backend.git
 ---
 
 ### 🚗 Car Marketplace Application (Full-Stack)
