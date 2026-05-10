@@ -47,7 +47,8 @@ A production-ready communication platform built from scratch.
 - 🧱 Modular architecture (React hooks + FastAPI routers)
 
 👉 Frontend: https://github.com/MariusUsv/WebRTC-Frontend  
-👉 Backend: https://github.com/MariusUsv/WebRTC-Backend  
+👉 Backend:  https://github.com/MariusUsv/WebRTC-Backend  
+👉 Demo :    https://web-rtc-frontend-swart.vercel.app/
 
 ---
 
